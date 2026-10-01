@@ -1,2 +1,1 @@
-# Smart-India-Hackathon-2026---Quirky-Koders
-Official Repository of the team : Quirky Koders
+HACK-OCTO-4.0 hackathon team OCTOPER
